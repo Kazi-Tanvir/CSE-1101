@@ -95,6 +95,29 @@
 <br>
 
 <details open>
+  <summary><b>🚀 LAB PROJECTS</b></summary>
+  <br>
+  <table>
+    <thead>
+      <tr>
+        <th align="left" width="40%">Project</th>
+        <th align="left" width="40%">Description</th>
+        <th align="center" width="20%">Date</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>🎮 <a href="LAB_PROJECT/PROJECT_1/"><code>Project 1 — Tic Tac Toe</code></a></td>
+        <td>Console-based Player vs Computer Tic Tac Toe game</td>
+        <td align="center"><code>09/06/2026</code></td>
+      </tr>
+    </tbody>
+  </table>
+</details>
+
+<br>
+
+<details open>
   <summary><b>📝 ASSIGNMENTS</b></summary>
   <br>
   <table>
@@ -139,6 +162,9 @@
       <tr>
         <td>⚡ <a href="PRACTICE/prime_number_sqrt.c"><code>prime_number_sqrt.c</code></a></td>
       </tr>
+      <tr>
+        <td>⚡ <a href="PRACTICE/cgpa_calculator.c"><code>cgpa_calculator.c</code></a></td>
+      </tr>
     </tbody>
   </table>
 </details>
@@ -146,5 +172,5 @@
 <br>
 <hr>
 <div align="center">
-  <small><i>Last updated: May 2026</i></small>
+  <small><i>Last updated: June 2026</i></small>
 </div>
