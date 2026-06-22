@@ -40,7 +40,7 @@
     </thead>
     <tbody>
       <tr>
-        <td>🎯 <a href="TicTacToe.c"><code>TicTacToe.c</code></a></td>
+        <td>🎯 <a href="1812.c"><code>1812.c</code></a></td>
         <td>Main implementation using individual global variables for each board cell.</td>
         <td align="center"><code>✅ Done</code></td>
       </tr>
@@ -82,7 +82,7 @@
     </thead>
     <tbody>
       <tr>
-        <td><code>TicTacToe.c</code></td>
+        <td><code>1812.c</code></td>
         <td>Uses 9 separate global <code>char</code> variables (<code>b1</code>–<code>b9</code>) to represent the board.</td>
       </tr>
       <tr>

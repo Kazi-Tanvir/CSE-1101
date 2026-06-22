@@ -16,20 +16,32 @@
     </thead>
     <tbody>
       <tr>
-        <td>📄 <a href="CLASS/calculator.c"><code>calculator.c</code></a></td>
+        <td>📄 <a href="CLASS/01_calculator.c"><code>01_calculator.c</code></a></td>
         <td align="center"><code>09/05/2026</code></td>
       </tr>
       <tr>
-        <td>📄 <a href="CLASS/grade.c"><code>grade.c</code></a></td>
+        <td>📄 <a href="CLASS/02_grade.c"><code>02_grade.c</code></a></td>
         <td align="center"><code>09/05/2026</code></td>
       </tr>
       <tr>
-        <td>📄 <a href="CLASS/number_game.c"><code>number_game.c</code></a></td>
+        <td>📄 <a href="CLASS/03_number_game.c"><code>03_number_game.c</code></a></td>
         <td align="center"><code>09/05/2026</code></td>
       </tr>
       <tr>
-        <td>📄 <a href="CLASS/prime_number.c"><code>prime_number.c</code></a></td>
+        <td>📄 <a href="CLASS/04_prime_number.c"><code>04_prime_number.c</code></a></td>
         <td align="center"><code>09/05/2026</code></td>
+      </tr>
+      <tr>
+        <td>📄 <a href="CLASS/05_vowel_switch.c"><code>05_vowel_switch.c</code></a></td>
+        <td align="center"><code>22/06/2026</code></td>
+      </tr>
+      <tr>
+        <td>📄 <a href="CLASS/06_calc_menu_switch.c"><code>06_calc_menu_switch.c</code></a></td>
+        <td align="center"><code>22/06/2026</code></td>
+      </tr>
+      <tr>
+        <td>📄 <a href="CLASS/07_avg_temperature_array.c"><code>07_avg_temperature_array.c</code></a></td>
+        <td align="center"><code>22/06/2026</code></td>
       </tr>
     </tbody>
   </table>
