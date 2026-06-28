@@ -100,6 +100,22 @@
         <td>🧪 <a href="LAB/10_discount_budget.c"><code>10_discount_budget.c</code></a></td>
         <td align="center"><code>17/05/2026</code></td>
       </tr>
+      <tr>
+        <td>🧪 <a href="LAB/11_sort_array.c"><code>11_sort_array.c</code></a></td>
+        <td align="center"><code>28/06/2026</code></td>
+      </tr>
+      <tr>
+        <td>🧪 <a href="LAB/12_swap_array.c"><code>12_swap_array.c</code></a></td>
+        <td align="center"><code>28/06/2026</code></td>
+      </tr>
+      <tr>
+        <td>🧪 <a href="LAB/13_remove_item.c"><code>13_remove_item.c</code></a></td>
+        <td align="center"><code>28/06/2026</code></td>
+      </tr>
+      <tr>
+        <td>🧪 <a href="LAB/14_merge_array.c"><code>14_merge_array.c</code></a></td>
+        <td align="center"><code>28/06/2026</code></td>
+      </tr>
     </tbody>
   </table>
 </details>
@@ -151,6 +167,10 @@
       <tr>
         <td>📌 <strong>Assignment 3</strong></td>
         <td align="center"><code>14/05/2026</code></td>
+      </tr>
+      <tr>
+        <td>📌 <strong>Assignment 4</strong></td>
+        <td align="center"><code>25/06/2026</code></td>
       </tr>
     </tbody>
   </table>

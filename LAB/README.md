@@ -41,6 +41,11 @@
         <td>Hollow Patterns, Pascal Triangle, Password Validation, Budget Shopping</td>
         <td align="center"><code>17/05/2026</code></td>
       </tr>
+      <tr>
+        <td>Session 6</td>
+        <td>Array Sorting, Value Swapping, Duplicate Removal, Array Merging</td>
+        <td align="center"><code>28/06/2026</code></td>
+      </tr>
     </tbody>
   </table>
 </details>
@@ -60,24 +65,24 @@
     </thead>
     <tbody>
       <tr>
-        <td>Hollow Triangle</td>
-        <td>Prints a hollow triangle pattern using <code>#</code> based on user input height.</td>
-        <td align="center">🧪 <a href="07_hollow_triangle.c"><code>07_hollow_triangle.c</code></a></td>
+        <td>Sort Array</td>
+        <td>Sorts an array in descending order and finds the minimum and maximum elements.</td>
+        <td align="center">🧪 <a href="11_sort_array.c"><code>11_sort_array.c</code></a></td>
       </tr>
       <tr>
-        <td>Pascal Triangle</td>
-        <td>Generates Pascal's Triangle using combinations/factorials for a given height.</td>
-        <td align="center">🧪 <a href="08_pascal.c"><code>08_pascal.c</code></a></td>
+        <td>Swap Array Element</td>
+        <td>Replaces all occurrences of a specific value with another value in an array.</td>
+        <td align="center">🧪 <a href="12_swap_array.c"><code>12_swap_array.c</code></a></td>
       </tr>
       <tr>
-        <td>Password Validator</td>
-        <td>Checks password strength (Length >= 8, Cap, Small, Num, Special characters).</td>
-        <td align="center">🧪 <a href="09_password.c"><code>09_password.c</code></a></td>
+        <td>Remove Duplicate Item</td>
+        <td>Removes duplicate elements from an array by shifting elements.</td>
+        <td align="center">🧪 <a href="13_remove_item.c"><code>13_remove_item.c</code></a></td>
       </tr>
       <tr>
-        <td>Discount & Budget</td>
-        <td>Shopping simulator with discount logic, points usage, and budget management.</td>
-        <td align="center">🧪 <a href="10_discount_budget.c"><code>10_discount_budget.c</code></a></td>
+        <td>Merge Arrays</td>
+        <td>Merges two arrays into a single array and sorts the merged result.</td>
+        <td align="center">🧪 <a href="14_merge_array.c"><code>14_merge_array.c</code></a></td>
       </tr>
     </tbody>
   </table>
@@ -95,6 +100,10 @@
     <li><a href="04_change_calc_simplified.c">04 Simple Change Calculator</a></li>
     <li><a href="05_cgpa.c">05 CGPA Calculator</a></li>
     <li><a href="06_discount.c">06 Discount Calculator</a></li>
+    <li><a href="07_hollow_triangle.c">07 Hollow Triangle</a></li>
+    <li><a href="08_pascal.c">08 Pascal Triangle</a></li>
+    <li><a href="09_password.c">09 Password Validator</a></li>
+    <li><a href="10_discount_budget.c">10 Discount & Budget</a></li>
   </ul>
 </details>
  
