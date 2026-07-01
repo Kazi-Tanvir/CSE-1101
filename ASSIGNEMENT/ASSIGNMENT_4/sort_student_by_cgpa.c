@@ -15,20 +15,25 @@ float checkCGPA(int marks)
 }
 
 float countCGPA(int idx){
-    int sub[3]; float sum = 0;
+    int sub[7]; float sum = 0;
     printf("enter Your Marks : (Format is 110X) \n");
-    for (int i = 0; i < 3; i++) scanf("%d", &sub[i]);
-    for (int i = 0; i < 3; i++) sum += checkCGPA(sub[i]) * 3;
-    float grade = sum / 9.0;
+    for (int i = 0; i < 7; i++) scanf("%d", &sub[i]);
+    for (int i = 0; i < 7; i++) {
+        if (i < 6) sum += checkCGPA(sub[i]) * 3;
+        else sum += checkCGPA(sub[i]) * 1.5;
+    }
+    float grade = sum / 19.5;
     printf("Grade of student %d is %.2f\n", idx + 1, grade);
     return grade;
 }
 
 int main(){
     float student[5];
+    int roll[5];
     for(int i = 0; i < 5; i++){
         printf("Enter the marks of student %d: \n", i + 1);
         student[i] = countCGPA(i);
+        roll[i] = i + 1;
     }
     for(int i = 0 ; i < 5 ; i++){
         for(int j = i + 1 ; j < 5 ; j++){
@@ -36,10 +41,13 @@ int main(){
                 float temp = student[i];
                 student[i] = student[j];
                 student[j] = temp;
+                int t = roll[i];
+                roll[i] = roll[j];
+                roll[j] = t;
             }
         }
     }
-    printf("Sorted CGPA: \n");
-    for(int i = 0; i < 5; i++) printf("CGPA of student %d: %.2f\n", i + 1, student[i]);
+    printf("Merit List: \n");
+    for(int i = 0; i < 5; i++) printf("Merit %d: Roll %d (CGPA: %.2f)\n", i + 1, roll[i], student[i]);
     return 0;
 }
