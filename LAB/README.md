@@ -46,6 +46,11 @@
         <td>Array Sorting, Value Swapping, Duplicate Removal, Array Merging</td>
         <td align="center"><code>28/06/2026</code></td>
       </tr>
+      <tr>
+        <td>Session 7</td>
+        <td>Recursion: Sum Array, Reverse Array, Merge Sort</td>
+        <td align="center"><code>05/07/2026</code></td>
+      </tr>
     </tbody>
   </table>
 </details>
@@ -65,24 +70,19 @@
     </thead>
     <tbody>
       <tr>
-        <td>Sort Array</td>
-        <td>Sorts an array in descending order and finds the minimum and maximum elements.</td>
-        <td align="center">🧪 <a href="11_sort_array.c"><code>11_sort_array.c</code></a></td>
+        <td>Sum Array (Recursion)</td>
+        <td>Calculates the sum of elements in an array using recursion.</td>
+        <td align="center">🧪 <a href="15_sum_array_recursion.c"><code>15_sum_array_recursion.c</code></a></td>
       </tr>
       <tr>
-        <td>Swap Array Element</td>
-        <td>Replaces all occurrences of a specific value with another value in an array.</td>
-        <td align="center">🧪 <a href="12_swap_array.c"><code>12_swap_array.c</code></a></td>
+        <td>Reverse Array (Recursion)</td>
+        <td>Reverses the elements of an array using recursion.</td>
+        <td align="center">🧪 <a href="16_reverse_array_recursion.c"><code>16_reverse_array_recursion.c</code></a></td>
       </tr>
       <tr>
-        <td>Remove Duplicate Item</td>
-        <td>Removes duplicate elements from an array by shifting elements.</td>
-        <td align="center">🧪 <a href="13_remove_item.c"><code>13_remove_item.c</code></a></td>
-      </tr>
-      <tr>
-        <td>Merge Arrays</td>
-        <td>Merges two arrays into a single array and sorts the merged result.</td>
-        <td align="center">🧪 <a href="14_merge_array.c"><code>14_merge_array.c</code></a></td>
+        <td>Merge Sort (Recursion)</td>
+        <td>Sorts an array using the recursive merge sort algorithm.</td>
+        <td align="center">🧪 <a href="17_merge_sort_recursion.c"><code>17_merge_sort_recursion.c</code></a></td>
       </tr>
     </tbody>
   </table>
@@ -104,6 +104,10 @@
     <li><a href="08_pascal.c">08 Pascal Triangle</a></li>
     <li><a href="09_password.c">09 Password Validator</a></li>
     <li><a href="10_discount_budget.c">10 Discount & Budget</a></li>
+    <li><a href="11_sort_array.c">11 Sort Array</a></li>
+    <li><a href="12_swap_array.c">12 Swap Array Element</a></li>
+    <li><a href="13_remove_item.c">13 Remove Duplicate Item</a></li>
+    <li><a href="14_merge_array.c">14 Merge Arrays</a></li>
   </ul>
 </details>
  

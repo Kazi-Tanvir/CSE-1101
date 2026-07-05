@@ -116,6 +116,18 @@
         <td>🧪 <a href="LAB/14_merge_array.c"><code>14_merge_array.c</code></a></td>
         <td align="center"><code>28/06/2026</code></td>
       </tr>
+      <tr>
+        <td>🧪 <a href="LAB/15_sum_array_recursion.c"><code>15_sum_array_recursion.c</code></a></td>
+        <td align="center"><code>05/07/2026</code></td>
+      </tr>
+      <tr>
+        <td>🧪 <a href="LAB/16_reverse_array_recursion.c"><code>16_reverse_array_recursion.c</code></a></td>
+        <td align="center"><code>05/07/2026</code></td>
+      </tr>
+      <tr>
+        <td>🧪 <a href="LAB/17_merge_sort_recursion.c"><code>17_merge_sort_recursion.c</code></a></td>
+        <td align="center"><code>05/07/2026</code></td>
+      </tr>
     </tbody>
   </table>
 </details>
@@ -204,5 +216,5 @@
 <br>
 <hr>
 <div align="center">
-  <small><i>Last updated: June 2026</i></small>
+  <small><i>Last updated: July 2026</i></small>
 </div>
