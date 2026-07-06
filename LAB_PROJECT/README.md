@@ -20,7 +20,7 @@
       <tr>
         <td>🎮 <a href="PROJECT_1/"><b>Project 1</b></a></td>
         <td>Tic Tac Toe — Console-based Player vs Computer game</td>
-        <td align="center"><code>🔄 WIP</code></td>
+        <td align="center"><code>✅ Done</code></td>
         <td align="center"><code>09/06/2026</code></td>
       </tr>
     </tbody>
@@ -39,8 +39,8 @@
 
   | File | Description |
   |------|-------------|
-  | [`TicTacToe.c`](PROJECT_1/TicTacToe.c) | Main version using global variables |
-  | [`temp.c`](PROJECT_1/temp.c) | Refactored version using arrays |
+  | [`tictactoe_no_array.c`](PROJECT_1/tictactoe_no_array.c) | Main version using global variables |
+  | [`tictactoe.c`](PROJECT_1/tictactoe.c) | Refactored version using arrays |
 
   **Features:**
   - Player vs Computer gameplay

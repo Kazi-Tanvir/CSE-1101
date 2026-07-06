@@ -40,14 +40,14 @@
     </thead>
     <tbody>
       <tr>
-        <td>🎯 <a href="1812.c"><code>1812.c</code></a></td>
+        <td>🎯 <a href="tictactoe_no_array.c"><code>tictactoe_no_array.c</code></a></td>
         <td>Main implementation using individual global variables for each board cell.</td>
         <td align="center"><code>✅ Done</code></td>
       </tr>
       <tr>
-        <td>🔧 <a href="temp.c"><code>temp.c</code></a></td>
+        <td>🔧 <a href="tictactoe.c"><code>tictactoe.c</code></a></td>
         <td>Refactored version using arrays for board state and move tracking.</td>
-        <td align="center"><code>🔄 WIP</code></td>
+        <td align="center"><code>✅ Done</code></td>
       </tr>
     </tbody>
   </table>
@@ -82,11 +82,11 @@
     </thead>
     <tbody>
       <tr>
-        <td><code>1812.c</code></td>
+        <td><code>tictactoe_no_array.c</code></td>
         <td>Uses 9 separate global <code>char</code> variables (<code>b1</code>–<code>b9</code>) to represent the board.</td>
       </tr>
       <tr>
-        <td><code>temp.c</code></td>
+        <td><code>tictactoe.c</code></td>
         <td>Refactored to use a <code>char board[9]</code> array and a <code>done[9]</code> tracker for cleaner logic.</td>
       </tr>
     </tbody>

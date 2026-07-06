@@ -43,6 +43,22 @@
         <td>📄 <a href="CLASS/07_avg_temperature_array.c"><code>07_avg_temperature_array.c</code></a></td>
         <td align="center"><code>22/06/2026</code></td>
       </tr>
+      <tr>
+        <td>📄 <a href="CLASS/string_length.c"><code>string_length.c</code></a></td>
+        <td align="center"><code>06/07/2026</code></td>
+      </tr>
+      <tr>
+        <td>📄 <a href="CLASS/string_copy.c"><code>string_copy.c</code></a></td>
+        <td align="center"><code>06/07/2026</code></td>
+      </tr>
+      <tr>
+        <td>📄 <a href="CLASS/string_check_equal.c"><code>string_check_equal.c</code></a></td>
+        <td align="center"><code>06/07/2026</code></td>
+      </tr>
+      <tr>
+        <td>📄 <a href="CLASS/string_merge.c"><code>string_merge.c</code></a></td>
+        <td align="center"><code>06/07/2026</code></td>
+      </tr>
     </tbody>
   </table>
 </details>
@@ -208,6 +224,43 @@
       </tr>
       <tr>
         <td>⚡ <a href="PRACTICE/cgpa_calculator.c"><code>cgpa_calculator.c</code></a></td>
+      </tr>
+    </tbody>
+  </table>
+</details>
+
+<br>
+
+<details open>
+  <summary><b>🎓 BUET CSE 101 (2025)</b></summary>
+  <br>
+  <table>
+    <thead>
+      <tr>
+        <th align="left" width="100%">Source File</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>🎓 <a href="00_BUET_CSE_101/2025/factorial.c"><code>factorial.c</code></a></td>
+      </tr>
+      <tr>
+        <td>🎓 <a href="00_BUET_CSE_101/2025/find_root.c"><code>find_root.c</code></a></td>
+      </tr>
+      <tr>
+        <td>🎓 <a href="00_BUET_CSE_101/2025/pascal.c"><code>pascal.c</code></a></td>
+      </tr>
+      <tr>
+        <td>🎓 <a href="00_BUET_CSE_101/2025/prime_number.c"><code>prime_number.c</code></a></td>
+      </tr>
+      <tr>
+        <td>🎓 <a href="00_BUET_CSE_101/2025/solve_equation.c"><code>solve_equation.c</code></a></td>
+      </tr>
+      <tr>
+        <td>🎓 <a href="00_BUET_CSE_101/2025/weighted_average.c"><code>weighted_average.c</code></a></td>
+      </tr>
+      <tr>
+        <td>🎓 <a href="00_BUET_CSE_101/2025/weighted_avg.c"><code>weighted_avg.c</code></a></td>
       </tr>
     </tbody>
   </table>
