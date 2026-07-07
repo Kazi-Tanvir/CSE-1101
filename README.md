@@ -44,19 +44,19 @@
         <td align="center"><code>22/06/2026</code></td>
       </tr>
       <tr>
-        <td>📄 <a href="CLASS/string_length.c"><code>string_length.c</code></a></td>
+        <td>📄 <a href="CLASS/08_string_length.c"><code>08_string_length.c</code></a></td>
         <td align="center"><code>06/07/2026</code></td>
       </tr>
       <tr>
-        <td>📄 <a href="CLASS/string_copy.c"><code>string_copy.c</code></a></td>
+        <td>📄 <a href="CLASS/09_string_copy.c"><code>09_string_copy.c</code></a></td>
         <td align="center"><code>06/07/2026</code></td>
       </tr>
       <tr>
-        <td>📄 <a href="CLASS/string_check_equal.c"><code>string_check_equal.c</code></a></td>
+        <td>📄 <a href="CLASS/10_string_check_equal.c"><code>10_string_check_equal.c</code></a></td>
         <td align="center"><code>06/07/2026</code></td>
       </tr>
       <tr>
-        <td>📄 <a href="CLASS/string_merge.c"><code>string_merge.c</code></a></td>
+        <td>📄 <a href="CLASS/11_string_merge.c"><code>11_string_merge.c</code></a></td>
         <td align="center"><code>06/07/2026</code></td>
       </tr>
     </tbody>
