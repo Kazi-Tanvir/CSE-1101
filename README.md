@@ -156,16 +156,31 @@
   <table>
     <thead>
       <tr>
-        <th align="left" width="40%">Project</th>
+        <th align="left" width="35%">Project</th>
         <th align="left" width="40%">Description</th>
-        <th align="center" width="20%">Date</th>
+        <th align="center" width="25%">Date</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td>🎮 <a href="LAB_PROJECT/PROJECT_1/"><code>Project 1 — Tic Tac Toe</code></a></td>
+        <td>🎮 <a href="LAB_PROJECT/ASSIGNMENT_1/"><code>Assignment 1 — Tic Tac Toe</code></a></td>
         <td>Console-based Player vs Computer Tic Tac Toe game</td>
         <td align="center"><code>09/06/2026</code></td>
+      </tr>
+      <tr>
+        <td>🔤 <a href="LAB_PROJECT/ASSIGNMENT_2/"><code>Assignment 2 — Hangman</code></a></td>
+        <td>Word guessing game with ASCII art</td>
+        <td align="center"><code>July 2026</code></td>
+      </tr>
+      <tr>
+        <td>📝 <a href="LAB_PROJECT/MIDTERM_EXAM/"><code>Midterm Exam</code></a></td>
+        <td>3 questions — arrays, sorting, recursion</td>
+        <td align="center"><code>July 2026</code></td>
+      </tr>
+      <tr>
+        <td>🏨 <a href="LAB_PROJECT/MIDTERM_PRACTICE/"><code>Midterm Practice</code></a></td>
+        <td>Hotel Reservation System — menu-driven app</td>
+        <td align="center"><code>July 2026</code></td>
       </tr>
     </tbody>
   </table>
