@@ -14,6 +14,10 @@
         <td align="left" width="70%"><code>Build a hotel reservation management system</code></td>
       </tr>
       <tr>
+        <td align="left"><b>📅 Date</b></td>
+        <td align="left"><code>29/07/2026</code></td>
+      </tr>
+      <tr>
         <td align="left"><b>📅 Type</b></td>
         <td align="left"><code>Midterm Practice Project</code></td>
       </tr>

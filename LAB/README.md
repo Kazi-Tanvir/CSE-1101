@@ -24,12 +24,12 @@
       <tr>
         <td>Session 2</td>
         <td>Variable Swapping (With/Without temp)</td>
-        <td align="center"><code>26/04/2026</code></td>
+        <td align="center"><code>16/05/2026</code></td>
       </tr>
       <tr>
         <td>Session 3</td>
         <td>Age Calculator, Change Calculator</td>
-        <td align="center"><code>03/05/2026</code></td>
+        <td align="center"><code>12/05/2026</code></td>
       </tr>
       <tr>
         <td>Session 4</td>

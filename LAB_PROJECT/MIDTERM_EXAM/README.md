@@ -14,6 +14,10 @@
         <td align="left" width="70%"><code>Midterm Lab Exam</code></td>
       </tr>
       <tr>
+        <td align="left"><b>📅 Date</b></td>
+        <td align="left"><code>29/07/2026</code></td>
+      </tr>
+      <tr>
         <td align="left"><b>🗂️ Language</b></td>
         <td align="left"><code>C (stdio.h)</code></td>
       </tr>

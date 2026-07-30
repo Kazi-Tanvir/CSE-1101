@@ -17,19 +17,19 @@
     <tbody>
       <tr>
         <td>📄 <a href="CLASS/01_calculator.c"><code>01_calculator.c</code></a></td>
-        <td align="center"><code>09/05/2026</code></td>
+        <td align="center"><code>12/05/2026</code></td>
       </tr>
       <tr>
         <td>📄 <a href="CLASS/02_grade.c"><code>02_grade.c</code></a></td>
-        <td align="center"><code>09/05/2026</code></td>
+        <td align="center"><code>12/05/2026</code></td>
       </tr>
       <tr>
         <td>📄 <a href="CLASS/03_number_game.c"><code>03_number_game.c</code></a></td>
-        <td align="center"><code>09/05/2026</code></td>
+        <td align="center"><code>12/05/2026</code></td>
       </tr>
       <tr>
         <td>📄 <a href="CLASS/04_prime_number.c"><code>04_prime_number.c</code></a></td>
-        <td align="center"><code>09/05/2026</code></td>
+        <td align="center"><code>12/05/2026</code></td>
       </tr>
       <tr>
         <td>📄 <a href="CLASS/05_vowel_switch.c"><code>05_vowel_switch.c</code></a></td>
@@ -59,6 +59,38 @@
         <td>📄 <a href="CLASS/11_string_merge.c"><code>11_string_merge.c</code></a></td>
         <td align="center"><code>06/07/2026</code></td>
       </tr>
+      <tr>
+        <td>📄 <a href="CLASS/12_pointer_strlen.c"><code>12_pointer_strlen.c</code></a></td>
+        <td align="center"><code>29/07/2026</code></td>
+      </tr>
+      <tr>
+        <td>📄 <a href="CLASS/13_pointer_strcpy.c"><code>13_pointer_strcpy.c</code></a></td>
+        <td align="center"><code>29/07/2026</code></td>
+      </tr>
+      <tr>
+        <td>📄 <a href="CLASS/14_pointer_strcmp.c"><code>14_pointer_strcmp.c</code></a></td>
+        <td align="center"><code>29/07/2026</code></td>
+      </tr>
+      <tr>
+        <td>📄 <a href="CLASS/15_pointer_strcat.c"><code>15_pointer_strcat.c</code></a></td>
+        <td align="center"><code>29/07/2026</code></td>
+      </tr>
+      <tr>
+        <td>📄 <a href="CLASS/16_pointer_min_max.c"><code>16_pointer_min_max.c</code></a></td>
+        <td align="center"><code>30/07/2026</code></td>
+      </tr>
+      <tr>
+        <td>📄 <a href="CLASS/17_pointer_string_reverese.c"><code>17_pointer_string_reverese.c</code></a></td>
+        <td align="center"><code>30/07/2026</code></td>
+      </tr>
+      <tr>
+        <td>📄 <a href="CLASS/18_pointer_books_2d_arr.c"><code>18_pointer_books_2d_arr.c</code></a></td>
+        <td align="center"><code>30/07/2026</code></td>
+      </tr>
+      <tr>
+        <td>📄 <a href="CLASS/19_pointer_row_sum.c"><code>19_pointer_row_sum.c</code></a></td>
+        <td align="center"><code>30/07/2026</code></td>
+      </tr>
     </tbody>
   </table>
 </details>
@@ -78,19 +110,19 @@
     <tbody>
       <tr>
         <td>🧪 <a href="LAB/01_change_var_temp.c"><code>01_change_var_temp.c</code></a></td>
-        <td align="center"><code>26/04/2026</code></td>
+        <td align="center"><code>16/05/2026</code></td>
       </tr>
       <tr>
         <td>🧪 <a href="LAB/02_change_var_no_temp.c"><code>02_change_var_no_temp.c</code></a></td>
-        <td align="center"><code>26/04/2026</code></td>
+        <td align="center"><code>16/05/2026</code></td>
       </tr>
       <tr>
         <td>🧪 <a href="LAB/03_age_calc_simple.c"><code>03_age_calc_simple.c</code></a></td>
-        <td align="center"><code>03/05/2026</code></td>
+        <td align="center"><code>12/05/2026</code></td>
       </tr>
       <tr>
         <td>🧪 <a href="LAB/04_change_calc_simplified.c"><code>04_change_calc_simplified.c</code></a></td>
-        <td align="center"><code>03/05/2026</code></td>
+        <td align="center"><code>12/05/2026</code></td>
       </tr>
       <tr>
         <td>🧪 <a href="LAB/05_cgpa.c"><code>05_cgpa.c</code></a></td>
@@ -170,17 +202,17 @@
       <tr>
         <td>🔤 <a href="LAB_PROJECT/ASSIGNMENT_2/"><code>Assignment 2 — Hangman</code></a></td>
         <td>Word guessing game with ASCII art</td>
-        <td align="center"><code>July 2026</code></td>
+        <td align="center"><code>29/07/2026</code></td>
       </tr>
       <tr>
         <td>📝 <a href="LAB_PROJECT/MIDTERM_EXAM/"><code>Midterm Exam</code></a></td>
         <td>3 questions — arrays, sorting, recursion</td>
-        <td align="center"><code>July 2026</code></td>
+        <td align="center"><code>29/07/2026</code></td>
       </tr>
       <tr>
         <td>🏨 <a href="LAB_PROJECT/MIDTERM_PRACTICE/"><code>Midterm Practice</code></a></td>
         <td>Hotel Reservation System — menu-driven app</td>
-        <td align="center"><code>July 2026</code></td>
+        <td align="center"><code>29/07/2026</code></td>
       </tr>
     </tbody>
   </table>
@@ -201,7 +233,7 @@
     <tbody>
       <tr>
         <td>📌 <strong>Assignment 1</strong></td>
-        <td align="center"><code>23/05/2026</code></td>
+        <td align="center"><code>12/05/2026</code></td>
       </tr>
       <tr>
         <td>📌 <strong>Assignment 2</strong></td>
@@ -284,5 +316,5 @@
 <br>
 <hr>
 <div align="center">
-  <small><i>Last updated: July 2026</i></small>
+  <small><i>Last updated: 30/07/2026</i></small>
 </div>

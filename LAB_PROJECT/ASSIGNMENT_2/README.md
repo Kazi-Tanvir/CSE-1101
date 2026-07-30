@@ -15,7 +15,7 @@
       </tr>
       <tr>
         <td align="left"><b>📅 Date</b></td>
-        <td align="left"><code>July 2026</code></td>
+        <td align="left"><code>29/07/2026</code></td>
       </tr>
       <tr>
         <td align="left"><b>🗂️ Language</b></td>

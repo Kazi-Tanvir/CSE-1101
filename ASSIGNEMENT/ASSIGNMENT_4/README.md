@@ -20,11 +20,11 @@
       </tr>
       <tr>
         <td align="left"><b>📅 Start Date</b></td>
-        <td align="left"><code>18/05/2026</code></td>
+        <td align="left"><code>25/06/2026</code></td>
       </tr>
       <tr>
         <td align="left"><b>🏁 Completion Date</b></td>
-        <td align="left"><code>24/05/2026</code></td>
+        <td align="left"><code>25/06/2026</code></td>
       </tr>
     </tbody>
   </table>

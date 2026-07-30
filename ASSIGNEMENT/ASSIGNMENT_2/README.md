@@ -22,7 +22,7 @@
       </tr>
       <tr>
         <td align="left"><b>🏁 End Date</b></td>
-        <td align="left"><code>11/05/2026</code></td>
+        <td align="left"><code>15/05/2026</code></td>
       </tr>
     </tbody>
   </table>

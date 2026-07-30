@@ -27,19 +27,19 @@
         <td>🔤 <a href="ASSIGNMENT_2/"><b>Assignment 2</b></a></td>
         <td>Hangman — Word guessing game with ASCII art</td>
         <td align="center"><code>✅ Done</code></td>
-        <td align="center"><code>July 2026</code></td>
+        <td align="center"><code>29/07/2026</code></td>
       </tr>
       <tr>
         <td>📝 <a href="MIDTERM_EXAM/"><b>Midterm Exam</b></a></td>
         <td>Timed lab exam — 3 questions (arrays, sorting, recursion)</td>
         <td align="center"><code>✅ Done</code></td>
-        <td align="center"><code>July 2026</code></td>
+        <td align="center"><code>29/07/2026</code></td>
       </tr>
       <tr>
         <td>🏨 <a href="MIDTERM_PRACTICE/"><b>Midterm Practice</b></a></td>
         <td>Hotel Reservation System — Menu-driven management app</td>
         <td align="center"><code>✅ Done</code></td>
-        <td align="center"><code>July 2026</code></td>
+        <td align="center"><code>29/07/2026</code></td>
       </tr>
     </tbody>
   </table>
