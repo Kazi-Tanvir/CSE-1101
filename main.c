@@ -1,17 +1,14 @@
 #include <stdio.h>
-void print(int n, char c){
-    for (int i = 0; i <= 2 * (n - 2) ; i++) i == n - 2 ? printf("\\ /") : printf("%c", c);
-}
-void main()  {
-    int n;
-    printf("Enter Your number: ");
-    scanf("%d", &n);
-    for (int i = 0; i < 2 * (n - 2) + 1; i++){
-        if (i ==  (n - 2)){
-            for (int j = 0; j < n - 1; j++) printf(" ");
-            printf("@");
+int main(){
+    int arr[2][3] = {{2,3,4},{5,6,7}};
+    
+    for(int i = 0 ; i < 2 ; i++){
+        for(int j = 0; j <  3; j++){
+            printf("%d ",arr[i][j]);
         }
-        else print(n, (i % 2 == 0) ? '*' : '=');
         printf("\n");
+    }
+    for(int i = 0; i < 6; i++){
+        printf("%d ",arr[i]);
     }
 }
