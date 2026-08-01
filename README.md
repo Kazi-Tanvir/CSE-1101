@@ -244,8 +244,20 @@
         <td align="center"><code>14/05/2026</code></td>
       </tr>
       <tr>
-        <td>📌 <strong>Assignment 4</strong></td>
+        <td>📌 <a href="ASSIGNEMENT/ASSIGNMENT_04/"><strong>Assignment 4</strong></a> — Sort Students by CGPA</td>
         <td align="center"><code>25/06/2026</code></td>
+      </tr>
+      <tr>
+        <td>📌 <a href="ASSIGNEMENT/ASSIGNMENT_05/"><strong>Assignment 5</strong></a> — Dictionary Sort (Lexicographic)</td>
+        <td align="center"><code>—</code></td>
+      </tr>
+      <tr>
+        <td>📌 <a href="ASSIGNEMENT/ASSIGNMENT_06/"><strong>Assignment 6</strong></a> — Student Grading System</td>
+        <td align="center"><code>01/08/2026</code></td>
+      </tr>
+      <tr>
+        <td>📌 <a href="ASSIGNEMENT/ASSIGNMENT_07/"><strong>Assignment 7</strong></a> — Library Book Reservation System</td>
+        <td align="center"><code>01/08/2026</code></td>
       </tr>
     </tbody>
   </table>
@@ -316,5 +328,5 @@
 <br>
 <hr>
 <div align="center">
-  <small><i>Last updated: 30/07/2026</i></small>
+  <small><i>Last updated: 01/08/2026</i></small>
 </div>
