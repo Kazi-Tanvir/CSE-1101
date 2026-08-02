@@ -176,6 +176,34 @@
         <td>🧪 <a href="LAB/17_merge_sort_recursion.c"><code>17_merge_sort_recursion.c</code></a></td>
         <td align="center"><code>05/07/2026</code></td>
       </tr>
+      <tr>
+        <td>🧪 <a href="LAB/18_pointer_sort.c"><code>18_pointer_sort.c</code></a></td>
+        <td align="center"><code>02/08/2026</code></td>
+      </tr>
+      <tr>
+        <td>🧪 <a href="LAB/19_pointer_swap.c"><code>19_pointer_swap.c</code></a></td>
+        <td align="center"><code>02/08/2026</code></td>
+      </tr>
+      <tr>
+        <td>🧪 <a href="LAB/20_pointer_remove.c"><code>20_pointer_remove.c</code></a></td>
+        <td align="center"><code>02/08/2026</code></td>
+      </tr>
+      <tr>
+        <td>🧪 <a href="LAB/21_pointer_merge.c"><code>21_pointer_merge.c</code></a></td>
+        <td align="center"><code>02/08/2026</code></td>
+      </tr>
+      <tr>
+        <td>🧪 <a href="LAB/22_pointer_recursion_array_sum.c"><code>22_pointer_recursion_array_sum.c</code></a></td>
+        <td align="center"><code>02/08/2026</code></td>
+      </tr>
+      <tr>
+        <td>🧪 <a href="LAB/23_pointer_array_reverse.c"><code>23_pointer_array_reverse.c</code></a></td>
+        <td align="center"><code>02/08/2026</code></td>
+      </tr>
+      <tr>
+        <td>🧪 <a href="LAB/24_merge_sort.c"><code>24_merge_sort.c</code></a></td>
+        <td align="center"><code>02/08/2026</code></td>
+      </tr>
     </tbody>
   </table>
 </details>
@@ -259,6 +287,10 @@
         <td>📌 <a href="ASSIGNEMENT/ASSIGNMENT_07/"><strong>Assignment 7</strong></a> — Library Book Reservation System</td>
         <td align="center"><code>01/08/2026</code></td>
       </tr>
+      <tr>
+        <td>📌 <a href="ASSIGNEMENT/ASSIGNMENT_08/"><strong>Assignment 8</strong></a> — Recursion & Pointers</td>
+        <td align="center"><code>03/08/2026</code></td>
+      </tr>
     </tbody>
   </table>
 </details>
@@ -328,5 +360,5 @@
 <br>
 <hr>
 <div align="center">
-  <small><i>Last updated: 01/08/2026</i></small>
+  <small><i>Last updated: 02/08/2026</i></small>
 </div>

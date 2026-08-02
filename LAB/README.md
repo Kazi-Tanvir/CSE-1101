@@ -51,6 +51,11 @@
         <td>Recursion: Sum Array, Reverse Array, Merge Sort</td>
         <td align="center"><code>05/07/2026</code></td>
       </tr>
+      <tr>
+        <td>Session 8</td>
+        <td>Pointers: Sort, Swap, Remove, Merge, Recursion Sum, Reverse, Merge Sort</td>
+        <td align="center"><code>02/08/2026</code></td>
+      </tr>
     </tbody>
   </table>
 </details>
@@ -70,19 +75,39 @@
     </thead>
     <tbody>
       <tr>
-        <td>Sum Array (Recursion)</td>
-        <td>Calculates the sum of elements in an array using recursion.</td>
-        <td align="center">🧪 <a href="15_sum_array_recursion.c"><code>15_sum_array_recursion.c</code></a></td>
+        <td>Pointer Sort</td>
+        <td>Sorts an array using pointer-based access.</td>
+        <td align="center">🧪 <a href="18_pointer_sort.c"><code>18_pointer_sort.c</code></a></td>
       </tr>
       <tr>
-        <td>Reverse Array (Recursion)</td>
-        <td>Reverses the elements of an array using recursion.</td>
-        <td align="center">🧪 <a href="16_reverse_array_recursion.c"><code>16_reverse_array_recursion.c</code></a></td>
+        <td>Pointer Swap</td>
+        <td>Swaps array elements using pointers.</td>
+        <td align="center">🧪 <a href="19_pointer_swap.c"><code>19_pointer_swap.c</code></a></td>
       </tr>
       <tr>
-        <td>Merge Sort (Recursion)</td>
-        <td>Sorts an array using the recursive merge sort algorithm.</td>
-        <td align="center">🧪 <a href="17_merge_sort_recursion.c"><code>17_merge_sort_recursion.c</code></a></td>
+        <td>Pointer Remove</td>
+        <td>Removes duplicate elements from an array using pointers.</td>
+        <td align="center">🧪 <a href="20_pointer_remove.c"><code>20_pointer_remove.c</code></a></td>
+      </tr>
+      <tr>
+        <td>Pointer Merge</td>
+        <td>Merges two arrays into one using pointers.</td>
+        <td align="center">🧪 <a href="21_pointer_merge.c"><code>21_pointer_merge.c</code></a></td>
+      </tr>
+      <tr>
+        <td>Pointer Recursion Array Sum</td>
+        <td>Calculates the sum of an array using pointer-based recursion.</td>
+        <td align="center">🧪 <a href="22_pointer_recursion_array_sum.c"><code>22_pointer_recursion_array_sum.c</code></a></td>
+      </tr>
+      <tr>
+        <td>Pointer Array Reverse</td>
+        <td>Reverses an array using pointer-based access.</td>
+        <td align="center">🧪 <a href="23_pointer_array_reverse.c"><code>23_pointer_array_reverse.c</code></a></td>
+      </tr>
+      <tr>
+        <td>Merge Sort (Pointers)</td>
+        <td>Implements merge sort algorithm using pointers.</td>
+        <td align="center">🧪 <a href="24_merge_sort.c"><code>24_merge_sort.c</code></a></td>
       </tr>
     </tbody>
   </table>
@@ -108,6 +133,16 @@
     <li><a href="12_swap_array.c">12 Swap Array Element</a></li>
     <li><a href="13_remove_item.c">13 Remove Duplicate Item</a></li>
     <li><a href="14_merge_array.c">14 Merge Arrays</a></li>
+    <li><a href="15_sum_array_recursion.c">15 Sum Array (Recursion)</a></li>
+    <li><a href="16_reverse_array_recursion.c">16 Reverse Array (Recursion)</a></li>
+    <li><a href="17_merge_sort_recursion.c">17 Merge Sort (Recursion)</a></li>
+    <li><a href="18_pointer_sort.c">18 Pointer Sort</a></li>
+    <li><a href="19_pointer_swap.c">19 Pointer Swap</a></li>
+    <li><a href="20_pointer_remove.c">20 Pointer Remove</a></li>
+    <li><a href="21_pointer_merge.c">21 Pointer Merge</a></li>
+    <li><a href="22_pointer_recursion_array_sum.c">22 Pointer Recursion Array Sum</a></li>
+    <li><a href="23_pointer_array_reverse.c">23 Pointer Array Reverse</a></li>
+    <li><a href="24_merge_sort.c">24 Merge Sort (Pointers)</a></li>
   </ul>
 </details>
  

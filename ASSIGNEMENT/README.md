@@ -59,6 +59,12 @@
         <td>Library Book Reservation System (20 books, 50 members)</td>
         <td align="center"><code>01/08/2026</code></td>
       </tr>
+      <tr>
+        <td align="center">8</td>
+        <td>📌 <a href="ASSIGNMENT_08/"><b>Assignment 8</b></a></td>
+        <td>Recursion &amp; Pointers (Fibonacci, Prime, String Reverse)</td>
+        <td align="center"><code>03/08/2026</code></td>
+      </tr>
     </tbody>
   </table>
 </details>
@@ -92,6 +98,11 @@
   │   └── README.md
   ├── ASSIGNMENT_07/          — Book Reservation
   │   ├── book_reservation.c
+  │   └── README.md
+  ├── ASSIGNMENT_08/          — Recursion & Pointers
+  │   ├── rec_fibonacci.c
+  │   ├── rec_prime.c
+  │   ├── rec_ptr_reverse_str.c
   │   └── README.md
   └── README.md               ← You are here
   ```
