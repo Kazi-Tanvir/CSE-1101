@@ -56,6 +56,16 @@
         <td>Pointers: Sort, Swap, Remove, Merge, Recursion Sum, Reverse, Merge Sort</td>
         <td align="center"><code>02/08/2026</code></td>
       </tr>
+      <tr>
+        <td>Session 9</td>
+        <td><em>Absent</em></td>
+        <td align="center"><code>9/08/2026</code></td>
+      </tr>
+      <tr>
+        <td>Session 10</td>
+        <td>Titanic Dataset CSV Analysis: Filtering, Age Grouping & Demographic Breakdown</td>
+        <td align="center"><code>19/08/2026</code></td>
+      </tr>
     </tbody>
   </table>
 </details>
@@ -75,39 +85,19 @@
     </thead>
     <tbody>
       <tr>
-        <td>Pointer Sort</td>
-        <td>Sorts an array using pointer-based access.</td>
-        <td align="center">🧪 <a href="18_pointer_sort.c"><code>18_pointer_sort.c</code></a></td>
+        <td>Titanic Analysis (Part 1)</td>
+        <td>Parses Titanic dataset CSV to compute survival counts and percentages across genders and age categories (child, adult, senior).</td>
+        <td align="center">🧪 <a href="25_titanic_p1.c"><code>25_titanic_p1.c</code></a></td>
       </tr>
       <tr>
-        <td>Pointer Swap</td>
-        <td>Swaps array elements using pointers.</td>
-        <td align="center">🧪 <a href="19_pointer_swap.c"><code>19_pointer_swap.c</code></a></td>
+        <td>Titanic Age Grouping (Part 2)</td>
+        <td>Processes Titanic CSV and classifies passengers into age groups, exporting the categorized data to <code>titanic_1.csv</code>.</td>
+        <td align="center">🧪 <a href="26_titanic_p2.c"><code>26_titanic_p2.c</code></a></td>
       </tr>
       <tr>
-        <td>Pointer Remove</td>
-        <td>Removes duplicate elements from an array using pointers.</td>
-        <td align="center">🧪 <a href="20_pointer_remove.c"><code>20_pointer_remove.c</code></a></td>
-      </tr>
-      <tr>
-        <td>Pointer Merge</td>
-        <td>Merges two arrays into one using pointers.</td>
-        <td align="center">🧪 <a href="21_pointer_merge.c"><code>21_pointer_merge.c</code></a></td>
-      </tr>
-      <tr>
-        <td>Pointer Recursion Array Sum</td>
-        <td>Calculates the sum of an array using pointer-based recursion.</td>
-        <td align="center">🧪 <a href="22_pointer_recursion_array_sum.c"><code>22_pointer_recursion_array_sum.c</code></a></td>
-      </tr>
-      <tr>
-        <td>Pointer Array Reverse</td>
-        <td>Reverses an array using pointer-based access.</td>
-        <td align="center">🧪 <a href="23_pointer_array_reverse.c"><code>23_pointer_array_reverse.c</code></a></td>
-      </tr>
-      <tr>
-        <td>Merge Sort (Pointers)</td>
-        <td>Implements merge sort algorithm using pointers.</td>
-        <td align="center">🧪 <a href="24_merge_sort.c"><code>24_merge_sort.c</code></a></td>
+        <td>Titanic Comprehensive Analysis (Part 3)</td>
+        <td>Performs statistical survival analysis across gender, passenger class (1/2/3), and age group categories from <code>titanic_1.csv</code>.</td>
+        <td align="center">🧪 <a href="27_titanic_p3.c"><code>27_titanic_p3.c</code></a></td>
       </tr>
     </tbody>
   </table>
@@ -143,6 +133,9 @@
     <li><a href="22_pointer_recursion_array_sum.c">22 Pointer Recursion Array Sum</a></li>
     <li><a href="23_pointer_array_reverse.c">23 Pointer Array Reverse</a></li>
     <li><a href="24_merge_sort.c">24 Merge Sort (Pointers)</a></li>
+    <li><a href="25_titanic_p1.c">25 Titanic Analysis (Part 1)</a></li>
+    <li><a href="26_titanic_p2.c">26 Titanic Age Grouping (Part 2)</a></li>
+    <li><a href="27_titanic_p3.c">27 Titanic Comprehensive Analysis (Part 3)</a></li>
   </ul>
 </details>
  

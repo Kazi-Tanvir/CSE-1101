@@ -204,6 +204,18 @@
         <td>🧪 <a href="LAB/24_merge_sort.c"><code>24_merge_sort.c</code></a></td>
         <td align="center"><code>02/08/2026</code></td>
       </tr>
+      <tr>
+        <td>🧪 <a href="LAB/25_titanic_p1.c"><code>25_titanic_p1.c</code></a></td>
+        <td align="center"><code>19/08/2026</code></td>
+      </tr>
+      <tr>
+        <td>🧪 <a href="LAB/26_titanic_p2.c"><code>26_titanic_p2.c</code></a></td>
+        <td align="center"><code>19/08/2026</code></td>
+      </tr>
+      <tr>
+        <td>🧪 <a href="LAB/27_titanic_p3.c"><code>27_titanic_p3.c</code></a></td>
+        <td align="center"><code>19/08/2026</code></td>
+      </tr>
     </tbody>
   </table>
 </details>
@@ -360,5 +372,5 @@
 <br>
 <hr>
 <div align="center">
-  <small><i>Last updated: 02/08/2026</i></small>
+  <small><i>Last updated: 19/08/2026</i></small>
 </div>
