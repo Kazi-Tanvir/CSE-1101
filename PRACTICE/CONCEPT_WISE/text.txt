@@ -1,0 +1,7 @@
+convert this pdf into a md file 
+make md files based on as per chapters  including  index , preface and appendix and other parts 
+make a folder for the md files and convert all the pdf in md format 
+do it manually without making any tools or scripts 
+but dont use tools to do that instead the read the entire document manually and convert to md 
+make sur eyou make a one to one copy of this pdf and make sure you dont miss anything 
+
