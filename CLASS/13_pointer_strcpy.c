@@ -1,10 +1,10 @@
 #include<stdio.h>
 
-void my_strcpy(char *x, char *y){
-    for(;*x;){
-        *y++ = *x++;
+void my_strcpy(char *dest, char *src){
+    for(;*src;){
+        *dest++ = *src++;
     }
-    *y = '\0';
+    *dest = '\0';
 }
 
 int main(){
