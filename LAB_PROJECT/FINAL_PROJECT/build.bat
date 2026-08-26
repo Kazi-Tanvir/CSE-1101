@@ -6,9 +6,9 @@ echo   Building Image Manipulation Software (Win64)
 echo ====================================================
 taskkill /F /IM ImageEditor.exe >nul 2>nul
 
-gcc src\main.c src\gui.c src\image.c src\filter.c src\ucrt_compat.c ^
+gcc src\main.c src\programs\gui.c src\programs\image.c src\programs\filter.c src\programs\ucrt_compat.c ^
     -o ImageEditor.exe ^
-    -I./include -L./lib ^
+    -I./src/header -I./include -L./lib ^
     -liup -lgdi32 -lcomdlg32 -lcomctl32 -luuid -loleaut32 -lole32 -luxtheme ^
     -Wall -Wextra
 
