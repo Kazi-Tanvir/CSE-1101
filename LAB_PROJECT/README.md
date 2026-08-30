@@ -41,6 +41,12 @@
         <td align="center"><code>✅ Done</code></td>
         <td align="center"><code>29/07/2026</code></td>
       </tr>
+      <tr>
+        <td>🖼️ <a href="FINAL_PROJECT/"><b>Final Project</b></a></td>
+        <td>Image Manipulation Software — Desktop GUI (IUP 3.32) &amp; BMP Filters</td>
+        <td align="center"><code>✅ Done</code></td>
+        <td align="center"><code>28/08/2026</code></td>
+      </tr>
     </tbody>
   </table>
 </details>
@@ -114,5 +120,25 @@
   - Vacancy tracking and double-booking prevention
   - Date-sorted display (bubble sort)
   - Revenue calculation per room
+
+  ---
+
+  ### 🖼️ Final Project — Image Manipulation Software
+
+  A full-featured desktop GUI application built in C using the IUP 3.32 toolkit for 24-bit uncompressed BMP image manipulation.
+
+  | File / Component | Description |
+  |------------------|-------------|
+  | [`src/main.c`](FINAL_PROJECT/src/main.c) | Application entry point &amp; IUP initialization |
+  | [`src/image.c`](FINAL_PROJECT/src/image.c) / [`include/image.h`](FINAL_PROJECT/include/image.h) | BMP parser, header validation, pixel buffer allocation &amp; file writer |
+  | [`src/filter.c`](FINAL_PROJECT/src/filter.c) / [`include/filter.h`](FINAL_PROJECT/include/filter.h) | Image processing filters (Grayscale, Invert, Brightness, Flips, Rotate 90°, Crop, Box Blur, Sharpen) &amp; Undo history |
+  | [`src/gui.c`](FINAL_PROJECT/src/gui.c) / [`include/gui.h`](FINAL_PROJECT/include/gui.h) | IUP GUI layout, menu bar, toolbar, canvas rendering &amp; callbacks |
+  | [`ImageEditor.exe`](FINAL_PROJECT/ImageEditor.exe) | Compiled 64-bit Windows binary |
+
+  **Features:**
+  - 24-bit BMP image loader and writer with dynamic row padding calculations
+  - Filter suite: Grayscale, Negative/Invert, Brightness adjustment, Horizontal &amp; Vertical flips, 90° Clockwise rotation, Box blur (3×3 convolution kernel), Bonus Image Sharpening filter, and interactive image cropping
+  - Multi-level undo stack with memory management
+  - Native Windows GUI via IUP 3.32 canvas with live viewport redraw
 
 </details>

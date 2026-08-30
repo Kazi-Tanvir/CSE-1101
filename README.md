@@ -91,6 +91,22 @@
         <td>📄 <a href="CLASS/19_pointer_row_sum.c"><code>19_pointer_row_sum.c</code></a></td>
         <td align="center"><code>30/07/2026</code></td>
       </tr>
+      <tr>
+        <td>📄 <a href="CLASS/20_cmd_arg.c"><code>20_cmd_arg.c</code></a></td>
+        <td align="center"><code>03/08/2026</code></td>
+      </tr>
+      <tr>
+        <td>📄 <a href="CLASS/21_file_basic.c"><code>21_file_basic.c</code></a></td>
+        <td align="center"><code>10/08/2026 &amp; 13/08/2026</code></td>
+      </tr>
+      <tr>
+        <td>📄 <a href="CLASS/22_space_finder.c"><code>22_space_finder.c</code></a></td>
+        <td align="center"><code>17/08/2026</code></td>
+      </tr>
+      <tr>
+        <td>📄 <a href="CLASS/23_mid_word.c"><code>23_mid_word.c</code></a></td>
+        <td align="center"><code>17/08/2026</code></td>
+      </tr>
     </tbody>
   </table>
 </details>
@@ -254,6 +270,11 @@
         <td>Hotel Reservation System — menu-driven app</td>
         <td align="center"><code>29/07/2026</code></td>
       </tr>
+      <tr>
+        <td>🖼️ <a href="LAB_PROJECT/FINAL_PROJECT/"><code>Final Project — Image Editor</code></a></td>
+        <td>GUI-based Image Manipulation Software (IUP 3.32, BMP Filters &amp; Undo)</td>
+        <td align="center"><code>28/08/2026</code></td>
+      </tr>
     </tbody>
   </table>
 </details>
@@ -303,6 +324,10 @@
         <td>📌 <a href="ASSIGNEMENT/ASSIGNMENT_08/"><strong>Assignment 8</strong></a> — Recursion & Pointers</td>
         <td align="center"><code>03/08/2026</code></td>
       </tr>
+      <tr>
+        <td>📌 <a href="ASSIGNEMENT/ASSIGNMENT_09/"><strong>Assignment 9</strong></a> — File I/O Marksheet System</td>
+        <td align="center"><code>—</code></td>
+      </tr>
     </tbody>
   </table>
 </details>
@@ -315,7 +340,7 @@
   <table>
     <thead>
       <tr>
-        <th align="left" width="100%">Source File</th>
+        <th align="left" width="100%">Source File / Category</th>
       </tr>
     </thead>
     <tbody>
@@ -327,6 +352,15 @@
       </tr>
       <tr>
         <td>⚡ <a href="PRACTICE/cgpa_calculator.c"><code>cgpa_calculator.c</code></a></td>
+      </tr>
+      <tr>
+        <td>📁 <a href="PRACTICE/CONCEPT_WISE/"><code>CONCEPT_WISE/</code></a> — Pointers, Strings, Arrays &amp; File I/O (9 programs)</td>
+      </tr>
+      <tr>
+        <td>📁 <a href="PRACTICE/LEETCODE/"><code>LEETCODE/</code></a> — LeetCode problem solutions in C</td>
+      </tr>
+      <tr>
+        <td>📁 <a href="PRACTICE/C%20BOOK/"><code>C BOOK/</code></a> — Herbert Schildt C Book exercises (Chapters 1–5)</td>
       </tr>
     </tbody>
   </table>
@@ -372,5 +406,5 @@
 <br>
 <hr>
 <div align="center">
-  <small><i>Last updated: 19/08/2026</i></small>
+  <small><i>Last updated: 28/08/2026</i></small>
 </div>

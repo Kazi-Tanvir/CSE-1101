@@ -1,0 +1,3 @@
+Line 1: The quick brown fox jumps over the lazy dog.
+Line 2: fgets reads until newline or buffer limit.
+Line 3: C standard library file operations demo.
