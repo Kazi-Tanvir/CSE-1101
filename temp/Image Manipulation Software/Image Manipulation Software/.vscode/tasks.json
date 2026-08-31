@@ -1,0 +1,39 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "type": "shell",
+            "label": "Build IUP Project",
+            "command": "C:/MinGW/bin/gcc.exe",
+            "args": [
+                "-g",
+                "${workspaceFolder}/main.c",
+                "${workspaceFolder}/bmp.c",
+                "${workspaceFolder}/gui.c",
+                "${workspaceFolder}/image.c",
+                "${workspaceFolder}/operation.c",
+                "${workspaceFolder}/compat.c",
+                "-I${workspaceFolder}/third_party/iup/include",
+                "-L${workspaceFolder}/third_party/iup",
+                "-liupcontrols",
+                "-liupcd",
+                "-liup",
+                "-lgdi32",
+                "-lcomdlg32",
+                "-lcomctl32",
+                "-luuid",
+                "-loleaut32",
+                "-lole32",
+                "-o",
+                "${workspaceFolder}/app.exe"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "problemMatcher": [
+                "$gcc"
+            ]
+        }
+    ]
+}
