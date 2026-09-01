@@ -107,6 +107,26 @@
         <td>📄 <a href="CLASS/23_mid_word.c"><code>23_mid_word.c</code></a></td>
         <td align="center"><code>17/08/2026</code></td>
       </tr>
+      <tr>
+        <td>📄 <a href="CLASS/24_take_cg_file.c"><code>24_take_cg_file.c</code></a></td>
+        <td align="center"><code>16/08/2026</code></td>
+      </tr>
+      <tr>
+        <td>📄 <a href="CLASS/25_file_sort_cg.c"><code>25_file_sort_cg.c</code></a></td>
+        <td align="center"><code>16/08/2026</code></td>
+      </tr>
+      <tr>
+        <td>📄 <a href="CLASS/26_struct_student_info.c"><code>26_struct_student_info.c</code></a></td>
+        <td align="center"><code>24/08/2026</code></td>
+      </tr>
+      <tr>
+        <td>📄 <a href="CLASS/27_binary_encryption.c"><code>27_binary_encryption.c</code></a></td>
+        <td align="center"><code>31/08/2026</code></td>
+      </tr>
+      <tr>
+        <td>📄 <a href="CLASS/28_shift_encryption.c"><code>28_shift_encryption.c</code></a></td>
+        <td align="center"><code>31/08/2026</code></td>
+      </tr>
     </tbody>
   </table>
 </details>
@@ -406,5 +426,5 @@
 <br>
 <hr>
 <div align="center">
-  <small><i>Last updated: 28/08/2026</i></small>
+  <small><i>Last updated: 01/09/2026</i></small>
 </div>
