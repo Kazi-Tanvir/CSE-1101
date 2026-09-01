@@ -12,8 +12,8 @@
     }
 
     int main() {
-        FILE *file = fopen("titanic.csv", "r");
-        FILE *file1 = fopen("titanic_1.csv", "w");
+        FILE *file = fopen("data/titanic.csv", "r");
+        FILE *file1 = fopen("data/titanic_1.csv", "w");
         if (!file) {
             printf("Error: Could not open titanic.csv\n");
             return 1;

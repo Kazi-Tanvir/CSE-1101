@@ -58,8 +58,8 @@
       </tr>
       <tr>
         <td>Session 9</td>
-        <td><em>Absent</em></td>
-        <td align="center"><code>9/08/2026</code></td>
+        <td>Dynamic 2D Matrix (DMA & Pointers)</td>
+        <td align="center"><code>09/08/2026</code></td>
       </tr>
       <tr>
         <td>Session 10</td>
@@ -99,6 +99,11 @@
         <td>Performs statistical survival analysis across gender, passenger class (1/2/3), and age group categories from <code>titanic_1.csv</code>.</td>
         <td align="center">🧪 <a href="27_titanic_p3.c"><code>27_titanic_p3.c</code></a></td>
       </tr>
+      <tr>
+        <td>Dynamic 2D Matrix</td>
+        <td>Allocates memory dynamically for a 2D matrix using double pointers (<code>malloc</code>), populates elements via pointer arithmetic, and frees allocated memory.</td>
+        <td align="center">🧪 <a href="28_matrix.c"><code>28_matrix.c</code></a></td>
+      </tr>
     </tbody>
   </table>
 </details>
@@ -136,6 +141,7 @@
     <li><a href="25_titanic_p1.c">25 Titanic Analysis (Part 1)</a></li>
     <li><a href="26_titanic_p2.c">26 Titanic Age Grouping (Part 2)</a></li>
     <li><a href="27_titanic_p3.c">27 Titanic Comprehensive Analysis (Part 3)</a></li>
+    <li><a href="28_matrix.c">28 Dynamic 2D Matrix</a></li>
   </ul>
 </details>
  

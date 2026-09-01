@@ -5,7 +5,7 @@
     #define MAX_ROWS 1000
 
     int main() {
-        FILE *file = fopen("titanic_1.csv", "r");
+        FILE *file = fopen("data/titanic_1.csv", "r");
         if (!file) {
             printf("Error: Could not open titanic_1.csv\n");
             return 1;
