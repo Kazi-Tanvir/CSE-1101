@@ -252,6 +252,18 @@
         <td>🧪 <a href="LAB/27_titanic_p3.c"><code>27_titanic_p3.c</code></a></td>
         <td align="center"><code>19/08/2026</code></td>
       </tr>
+      <tr>
+        <td>🧪 <a href="LAB/28_matrix.c"><code>28_matrix.c</code></a></td>
+        <td align="center"><code>09/08/2026</code></td>
+      </tr>
+      <tr>
+        <td>🧪 <a href="LAB/29_grayscale.c"><code>29_grayscale.c</code></a></td>
+        <td align="center"><code>25/08/2026</code></td>
+      </tr>
+      <tr>
+        <td>🧪 <a href="LAB/30_student_app.c"><code>30_student_app.c</code></a></td>
+        <td align="center"><code>30/08/2026</code></td>
+      </tr>
     </tbody>
   </table>
 </details>
@@ -271,12 +283,12 @@
     </thead>
     <tbody>
       <tr>
-        <td>🎮 <a href="LAB_PROJECT/ASSIGNMENT_1/"><code>Assignment 1 — Tic Tac Toe</code></a></td>
+        <td>🎮 <a href="LAB_PROJECT/TICTACTOE/"><code>Assignment 1 — Tic Tac Toe</code></a></td>
         <td>Console-based Player vs Computer Tic Tac Toe game</td>
         <td align="center"><code>09/06/2026</code></td>
       </tr>
       <tr>
-        <td>🔤 <a href="LAB_PROJECT/ASSIGNMENT_2/"><code>Assignment 2 — Hangman</code></a></td>
+        <td>🔤 <a href="LAB_PROJECT/HANGMAN/"><code>Assignment 2 — Hangman</code></a></td>
         <td>Word guessing game with ASCII art</td>
         <td align="center"><code>29/07/2026</code></td>
       </tr>
@@ -313,40 +325,44 @@
     </thead>
     <tbody>
       <tr>
-        <td>📌 <strong>Assignment 1</strong></td>
+        <td>📌 <a href="ASSIGNMENT/ASSIGNMENT_01/"><strong>Assignment 1</strong></a> — User-Defined Calculator</td>
         <td align="center"><code>12/05/2026</code></td>
       </tr>
       <tr>
-        <td>📌 <strong>Assignment 2</strong></td>
+        <td>📌 <a href="ASSIGNMENT/ASSIGNMENT_02/"><strong>Assignment 2</strong></a> — Pyramid Patterns (5 Types)</td>
         <td align="center"><code>11/05/2026</code></td>
       </tr>
       <tr>
-        <td>📌 <strong>Assignment 3</strong></td>
+        <td>📌 <a href="ASSIGNMENT/ASSIGNMENT_03/"><strong>Assignment 3</strong></a> — Butterfly &amp; Hollow Box Patterns</td>
         <td align="center"><code>14/05/2026</code></td>
       </tr>
       <tr>
-        <td>📌 <a href="ASSIGNEMENT/ASSIGNMENT_04/"><strong>Assignment 4</strong></a> — Sort Students by CGPA</td>
+        <td>📌 <a href="ASSIGNMENT/ASSIGNMENT_04/"><strong>Assignment 4</strong></a> — Sort Students by CGPA</td>
         <td align="center"><code>25/06/2026</code></td>
       </tr>
       <tr>
-        <td>📌 <a href="ASSIGNEMENT/ASSIGNMENT_05/"><strong>Assignment 5</strong></a> — Dictionary Sort (Lexicographic)</td>
+        <td>📌 <a href="ASSIGNMENT/ASSIGNMENT_05/"><strong>Assignment 5</strong></a> — Dictionary Sort (Lexicographic)</td>
         <td align="center"><code>—</code></td>
       </tr>
       <tr>
-        <td>📌 <a href="ASSIGNEMENT/ASSIGNMENT_06/"><strong>Assignment 6</strong></a> — Student Grading System</td>
+        <td>📌 <a href="ASSIGNMENT/ASSIGNMENT_06/"><strong>Assignment 6</strong></a> — Student Grading System</td>
         <td align="center"><code>01/08/2026</code></td>
       </tr>
       <tr>
-        <td>📌 <a href="ASSIGNEMENT/ASSIGNMENT_07/"><strong>Assignment 7</strong></a> — Library Book Reservation System</td>
+        <td>📌 <a href="ASSIGNMENT/ASSIGNMENT_07/"><strong>Assignment 7</strong></a> — Library Book Reservation System</td>
         <td align="center"><code>01/08/2026</code></td>
       </tr>
       <tr>
-        <td>📌 <a href="ASSIGNEMENT/ASSIGNMENT_08/"><strong>Assignment 8</strong></a> — Recursion & Pointers</td>
+        <td>📌 <a href="ASSIGNMENT/ASSIGNMENT_08/"><strong>Assignment 8</strong></a> — Recursion & Pointers</td>
         <td align="center"><code>03/08/2026</code></td>
       </tr>
       <tr>
-        <td>📌 <a href="ASSIGNEMENT/ASSIGNMENT_09/"><strong>Assignment 9</strong></a> — File I/O Marksheet System</td>
-        <td align="center"><code>—</code></td>
+        <td>📌 <a href="ASSIGNMENT/ASSIGNMENT_09/"><strong>Assignment 9</strong></a> — File I/O Marksheet System</td>
+        <td align="center"><code>31/08/2026</code></td>
+      </tr>
+      <tr>
+        <td>📌 <a href="ASSIGNMENT/ASSIGNMENT_10/"><strong>Assignment 10</strong></a> — Self-Referential Struct Student System</td>
+        <td align="center"><code>31/08/2026</code></td>
       </tr>
     </tbody>
   </table>
@@ -426,5 +442,5 @@
 <br>
 <hr>
 <div align="center">
-  <small><i>Last updated: 01/09/2026</i></small>
+  <small><i>Last updated: 02/09/2026</i></small>
 </div>

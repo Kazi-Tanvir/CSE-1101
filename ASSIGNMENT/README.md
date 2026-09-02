@@ -69,7 +69,13 @@
         <td align="center">9</td>
         <td>📌 <a href="ASSIGNMENT_09/"><b>Assignment 9</b></a></td>
         <td>Student Continuous &amp; Final Assessment Marksheet System</td>
-        <td align="center"><code>—</code></td>
+        <td align="center"><code>31/08/2026</code></td>
+      </tr>
+      <tr>
+        <td align="center">10</td>
+        <td>📌 <a href="ASSIGNMENT_10/"><b>Assignment 10</b></a></td>
+        <td>Self-Referential Struct Student Grading System (Linked List)</td>
+        <td align="center"><code>31/08/2026</code></td>
       </tr>
     </tbody>
   </table>
@@ -82,7 +88,7 @@
   <br>
 
   ```
-  ASSIGNEMENT/
+  ASSIGNMENT/
   ├── ASSIGNMENT_01/          — User-Defined Calculator
   │   ├── user_defined_calc.c
   │   └── README.md
@@ -111,7 +117,13 @@
   │   ├── rec_ptr_reverse_str.c
   │   └── README.md
   ├── ASSIGNMENT_09/          — Student Marksheet System
-  │   └── file_marksheet.c
+  │   ├── file_marksheet.c
+  │   ├── data/
+  │   └── README.md
+  ├── ASSIGNMENT_10/          — Self-Referential Struct System
+  │   ├── self_ref_struct.c
+  │   ├── data/
+  │   └── README.md
   └── README.md               ← You are here
   ```
 </details>

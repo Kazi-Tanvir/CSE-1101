@@ -66,6 +66,16 @@
         <td>Titanic Dataset CSV Analysis: Filtering, Age Grouping & Demographic Breakdown</td>
         <td align="center"><code>19/08/2026</code></td>
       </tr>
+      <tr>
+        <td>Session 11</td>
+        <td>BMP Image Grayscale Conversion (Structs & File I/O)</td>
+        <td align="center"><code>25/08/2026</code></td>
+      </tr>
+      <tr>
+        <td>Session 12</td>
+        <td>Student Roster App (Structs, Pointers & Menu-Driven)</td>
+        <td align="center"><code>30/08/2026</code></td>
+      </tr>
     </tbody>
   </table>
 </details>
@@ -103,6 +113,16 @@
         <td>Dynamic 2D Matrix</td>
         <td>Allocates memory dynamically for a 2D matrix using double pointers (<code>malloc</code>), populates elements via pointer arithmetic, and frees allocated memory.</td>
         <td align="center">🧪 <a href="28_matrix.c"><code>28_matrix.c</code></a></td>
+      </tr>
+      <tr>
+        <td>BMP Grayscale Converter</td>
+        <td>Reads a 24-bit BMP image, converts each pixel to grayscale using weighted RGB formula (0.299R + 0.587G + 0.114B), and writes the result to a new BMP file.</td>
+        <td align="center">🧪 <a href="29_grayscale.c"><code>29_grayscale.c</code></a></td>
+      </tr>
+      <tr>
+        <td>Student Roster App</td>
+        <td>Menu-driven student management system using structs and pointers — supports adding students, displaying roster, searching by ID, and finding the top scorer.</td>
+        <td align="center">🧪 <a href="30_student_app.c"><code>30_student_app.c</code></a></td>
       </tr>
     </tbody>
   </table>
@@ -142,6 +162,8 @@
     <li><a href="26_titanic_p2.c">26 Titanic Age Grouping (Part 2)</a></li>
     <li><a href="27_titanic_p3.c">27 Titanic Comprehensive Analysis (Part 3)</a></li>
     <li><a href="28_matrix.c">28 Dynamic 2D Matrix</a></li>
+    <li><a href="29_grayscale.c">29 BMP Grayscale Converter</a></li>
+    <li><a href="30_student_app.c">30 Student Roster App</a></li>
   </ul>
 </details>
  
