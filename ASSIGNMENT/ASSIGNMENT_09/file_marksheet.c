@@ -125,7 +125,7 @@ int main(void) {
     for (int i = 0; i < count; i++) countCGPA(i);
     sortStudent();
 
-    for (int i = 0; i < count; i++) fprintf(result, "Roll: %d | Name: %-12s | Total Marks : %.2f |CGPA: %.2f | Grade: %s \n", students[i].roll, students[i].name, students[i].total, students[i].cgpa, students[i].grade);
+    for (int i = 0; i < count; i++) fprintf(result, "Roll: %d | Name: %-12s | Total Marks : %.2f |CGPA: %.2f | Grade: %s \n", students[i].roll, students[i].name, students[i].totalMarks, students[i].cgpa, students[i].grade);
 
     fclose(result);
     return 0;
