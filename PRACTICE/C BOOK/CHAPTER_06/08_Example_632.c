@@ -7,7 +7,7 @@ int main(){
 
     p1 = str + strlen(str) - 1;
     p2 = rStr;
-    
+
     while (p1>= str) *p2++ = *p1--;
     *p2 = '\0';
 
@@ -16,5 +16,4 @@ int main(){
     printf(rStr);
 
     return 0;
-    
 }
