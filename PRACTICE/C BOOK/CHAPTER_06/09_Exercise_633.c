@@ -4,9 +4,7 @@
 int main(){
     char str[] = "This Aint a Reverse String" ,*ptr;
     ptr = str;
-
     for(;*ptr++ != ' ';);
     printf(ptr);
-
     return 0;
 }
