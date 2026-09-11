@@ -3,6 +3,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include <iupdraw.h>
+#include <iupkey.h>
 
 static Image *current_image = NULL;
 static Image *prev_image = NULL;
@@ -123,7 +124,7 @@ static int canvas_action(Ihandle *ih, float posx, float posy) {
 
         IupDrawImage(ih, IMG_HANDLE_NAME, x, y, draw_w, draw_h);
     } else {
-        const char *title = "CSE 1101 \xe2\x80\x94 Image Manipulation Software";
+        const char *title = "Image Manipulation Software";
         const char *sub = "No image loaded. Click File > Open (Ctrl+O) or toolbar 'Open' to load a BMP image.";
 
         int tw = 0, th = 0;
@@ -377,10 +378,6 @@ static int callback_brightness(Ihandle *self){
     return IUP_DEFAULT;
 }
 
-static int callback_exit(Ihandle *self){
-    (void)self;
-    return IUP_CLOSE;
-}
 
 void cleanup_images(void){
     if (current_iup_img) {
@@ -408,71 +405,6 @@ Ihandle* build_main_gui(void){
     IupSetAttribute(status_bar, "EXPAND", "HORIZONTAL");
     IupSetAttribute(status_bar, "PADDING", "6x4");
 
-    Ihandle *item_open = IupItem("Open\tCtrl+O", NULL);
-    Ihandle *item_save = IupItem("Save As...\tCtrl+S", NULL);
-    Ihandle *item_exit = IupItem("Exit\tAlt+F4", NULL);
-
-    IupSetCallback(item_open, "ACTION", (Icallback)callback_file_open);
-    IupSetCallback(item_save, "ACTION", (Icallback)callback_file_save);
-    IupSetCallback(item_exit, "ACTION", (Icallback)callback_exit);
-
-    Ihandle *menu_file = IupMenu(
-        item_open,
-        item_save,
-        IupSeparator(),
-        item_exit,
-        NULL
-    );
-
-    Ihandle *item_undo = IupItem("Undo\tCtrl+Z", NULL);
-    IupSetCallback(item_undo, "ACTION", (Icallback)callback_undo);
-
-    Ihandle *menu_edit = IupMenu(
-        item_undo,
-        NULL
-    );
-
-    Ihandle *item_grayscale      = IupItem("Grayscale", NULL);
-    Ihandle *item_brightness     = IupItem("Brightness...", NULL);
-    Ihandle *item_inversion      = IupItem("Invert Colors", NULL);
-    Ihandle *item_horizontalFlip = IupItem("Horizontal Flip", NULL);
-    Ihandle *item_verticalFlip   = IupItem("Vertical Flip", NULL);
-    Ihandle *item_rotate90       = IupItem("Rotate 90\xc2\xb0 CW", NULL);
-    Ihandle *item_crop           = IupItem("Crop...", NULL);
-    Ihandle *item_blur           = IupItem("Blur (Smooth)", NULL);
-    Ihandle *item_sharpen        = IupItem("Sharpen", NULL);
-
-    IupSetCallback(item_grayscale,      "ACTION", (Icallback)callback_grayscale);
-    IupSetCallback(item_brightness,     "ACTION", (Icallback)callback_brightness);
-    IupSetCallback(item_inversion,      "ACTION", (Icallback)callback_inversion);
-    IupSetCallback(item_horizontalFlip, "ACTION", (Icallback)callback_horizontalFlip);
-    IupSetCallback(item_verticalFlip,   "ACTION", (Icallback)callback_verticalFlip);
-    IupSetCallback(item_rotate90,       "ACTION", (Icallback)callback_rotate90);
-    IupSetCallback(item_crop,           "ACTION", (Icallback)callback_crop);
-    IupSetCallback(item_blur,           "ACTION", (Icallback)callback_blur);
-    IupSetCallback(item_sharpen,        "ACTION", (Icallback)callback_sharpen);
-
-    Ihandle *menu_filters = IupMenu(
-        item_grayscale,
-        item_brightness,
-        item_inversion,
-        IupSeparator(),
-        item_horizontalFlip,
-        item_verticalFlip,
-        item_rotate90,
-        IupSeparator(),
-        item_crop,
-        item_blur,
-        item_sharpen,
-        NULL
-    );
-
-    Ihandle *menu_bar = IupMenu(
-        IupSubmenu("File", menu_file),
-        IupSubmenu("Edit", menu_edit),
-        IupSubmenu("Image", menu_filters),
-        NULL
-    );
 
     /* ── Toolbar buttons ── */
     Ihandle *btn_open   = IupButton("Open",   NULL);
@@ -542,10 +474,14 @@ Ihandle* build_main_gui(void){
     );
 
     Ihandle *dialog = IupDialog(vbox);
-    IupSetAttribute(dialog, "TITLE", "CSE 1101 \xe2\x80\x94 Image Manipulation Software");
+    IupSetAttribute(dialog, "TITLE", "Image Manipulation Software");
     IupSetAttribute(dialog, "RASTERSIZE", "900x700");
     IupSetAttribute(dialog, "SHRINK", "NO");
-    IupSetAttributeHandle(dialog, "MENU", menu_bar);
+
+
+    IupSetCallback(dialog, "K_cO", (Icallback)callback_file_open);
+    IupSetCallback(dialog, "K_cS", (Icallback)callback_file_save);
+    IupSetCallback(dialog, "K_cZ", (Icallback)callback_undo);
 
     return dialog;
 }

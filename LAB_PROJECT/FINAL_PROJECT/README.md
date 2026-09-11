@@ -88,3 +88,31 @@ FINAL_PROJECT/
 | **`filter.c`** | [`src/programs/filter.c`](src/programs/filter.c) | Implements pixel-level manipulation algorithms including color conversions, coordinate transformations (flips, rotation, crop), and $3 \times 3$ convolution matrices (blur and sharpen). |
 | **`gui.c`** | [`src/programs/gui.c`](src/programs/gui.c) | Constructs the IUP user interface (menu bar, toolbar, canvas, and status bar), attaches callbacks, maintains undo state, and renders the active image to the screen. |
 | **`ucrt_compat.c`** | [`src/programs/ucrt_compat.c`](src/programs/ucrt_compat.c) | Provides compatibility symbols (`__imp___argc`, `__imp___argv`) required when linking IUP static libraries against modern Windows Universal C Runtime (UCRT). |
+
+---
+
+## 📸 Screenshots
+
+<table>
+  <tr>
+    <td align="center"><b>Application UI</b><br><img src="screenshots/01_ui_overview.png" width="300"></td>
+    <td align="center"><b>Loading an Image</b><br><img src="screenshots/02_image_loaded.png" width="300"></td>
+    <td align="center"><b>Grayscale Filter</b><br><img src="screenshots/03_grayscale.png" width="300"></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Brightness +100</b><br><img src="screenshots/04_brightness_plus100.png" width="300"></td>
+    <td align="center"><b>Brightness -100</b><br><img src="screenshots/05_brightness_minus100.png" width="300"></td>
+    <td align="center"><b>Invert Colors</b><br><img src="screenshots/06_invert.png" width="300"></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Horizontal Flip</b><br><img src="screenshots/07_horizontal_flip.png" width="300"></td>
+    <td align="center"><b>Vertical Flip</b><br><img src="screenshots/08_vertical_flip.png" width="300"></td>
+    <td align="center"><b>Rotate 90° CW</b><br><img src="screenshots/09_rotate_90.png" width="300"></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Crop</b><br><img src="screenshots/10_crop.png" width="300"></td>
+    <td align="center"><b>Box Blur</b><br><img src="screenshots/11_blur.png" width="300"></td>
+    <td align="center"><b>Sharpen</b><br><img src="screenshots/12_sharpen.png" width="300"></td>
+  </tr>
+</table>
+
