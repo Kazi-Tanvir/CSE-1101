@@ -10,7 +10,7 @@ char *p[][2] = {
     "Mutsu", "yellow",
     "Cortland", "red",
     "Jonathan", "red",
-    "", "" /* terminate the table with null strings */
+    "", ""
 };
 
 int main(void){
