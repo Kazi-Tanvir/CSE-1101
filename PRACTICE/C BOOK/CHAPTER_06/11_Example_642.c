@@ -7,4 +7,5 @@ int main(){
     printf(InsDisk);
     printf(InsDisk);
     printf(InsDisk);
+
 }
