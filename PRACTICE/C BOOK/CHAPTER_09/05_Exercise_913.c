@@ -1,28 +1,21 @@
 #include<stdio.h>
+#include<string.h>
 
-int main(int argc,char *argv[]){
+int main(int argc, char *argv[]){
+    FILE *source = fopen(argv[1],"r");
+    FILE *destination = fopen(argv[2],"w");
 
-    char in[80];
-    char out[] = "Writing was done successfully";
-    FILE *output = fopen("data/output","w");
-    FILE *input = fopen("data/output.txt","r");
-        if(output == NULL || input== NULL){
-        printf("unable to open File");
+    if(!source||!destination){
+        printf("Failed to open file !");
         return 1;
     }
-    for (int i = 0; out[i]; i++){
-        fputc(out[i],output);
-    }
-    fclose(output);
-    char ch;
-    for (int i = 0;((ch = fgetc(input)) != EOF); i++){
-        in[i] = ch;
-    }
-    fclose(input);
 
-    printf("%s\n",in);
-    
+    for(;!feof(source);){
+        char ch = fgetc(source);
+        fputc(ch,destination);
+        if(!strcmp("watch",argv[3])) printf("%c",ch); 
+    }
 
-    
-    
+    fclose(source);
+    fclose(destination);
 }
