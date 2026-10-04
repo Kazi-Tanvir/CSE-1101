@@ -2,11 +2,13 @@
 #include<stdio.h>
 
 static int ok_action(Ihandle *self) {
+    (void)self;
     printf("OK clicked!\n");
     return IUP_DEFAULT;
 }
 
 static int cancel_action(Ihandle *self) {
+    (void)self;
     printf("Cancel clicked!\n");
     return IUP_DEFAULT;
 }

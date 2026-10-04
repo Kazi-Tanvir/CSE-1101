@@ -2,6 +2,7 @@
 #include<stdio.h>
 
 static int buttonClick(Ihandle *self){
+    (void)self;
     printf("Button clicked!\n");
     return IUP_DEFAULT;
 }
