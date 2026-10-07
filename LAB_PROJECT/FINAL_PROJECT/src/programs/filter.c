@@ -124,8 +124,8 @@ Image *blur(const Image *img){
             int b_sum = 0;
             int count =0;
 
-            for(int dy = -1; dy<=1; dy++){
-                for(int dx = -1; dx<=1; dx++){
+            for(int dy = -4; dy<=4; dy++){
+                for(int dx = -4; dx<=4; dx++){
                     int nx = x+dx;
                     int ny = y+dy;
 
